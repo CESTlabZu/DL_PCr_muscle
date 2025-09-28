@@ -43,7 +43,7 @@ R2S5 = 1/0.0005;    % R2 NOE (1/s)
 % constants required for simulation
 fs5 = 0.015;        % fs NOE
 ksw1 = 100;         % ksw APT
-ksw5 = 20;          % ksw NOE
+ksw5 = 10;          % ksw NOE
 
 % Frequency offset 
 offset = -1000:25:1000;         
@@ -68,7 +68,7 @@ fm_n  = sample_fm;
 %% ---------------------------------------------------------------------
 % Define ranges for simulation
 
-num_T1W  = 4;
+num_T1W  = 3;
 num_T2W  = 3;
 num_fs1  = 3;
 num_fs2  = 3;
