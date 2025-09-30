@@ -1,11 +1,9 @@
-%% Partially Synthetic Data Simulation (Cleaned for GitHub/IEEE)
+%% Fully Synthetic Data Simulation 
 % Author: Malvika Viswanathan
 % Corresponding author: Dr. Zhongliang Zu
 % Email: zhongliang.zu@vumc.org
 %
-% NOTE: Logic preserved exactly; only formatting, comments, and missing
-% semicolons were added for readability.
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear; clc;
 
 %% ---------------------------------------------------------------------
