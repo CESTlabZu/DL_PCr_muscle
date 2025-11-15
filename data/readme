@@ -1,1 +1,9 @@
 ALS and Healthy animal data
+.mat files contain 3 things
+1) rat#number: Contains Z-spectra data of size (64x64x89x2) for 89 frequency offsets and B_1 powers of 0.5uT and 1uT
+
+2) rat#number_R1map: R1 map of size (64x64)
+
+3) rat#numer_fm: Pool size ratio (PSR) or fm maps of size (64x64)
+
+These will be required for performing most analysis in CEST imaging. 
